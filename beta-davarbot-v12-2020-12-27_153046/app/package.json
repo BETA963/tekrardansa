@@ -1,0 +1,33 @@
+{
+  "name": "discordjs-bot-mrbaro",
+  "version": "1.0.0",
+  "description": "Komut İşleyicisi Kullanan bir Discord.js botu",
+  "main": "node server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.2",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "os": "^0.1.1",
+    "discord.js": "^12.5.0",
+    "request": "^2.88.2",
+    "wio.db": "^4.0.9",
+    "ms": "^2.1.2",
+    "discord-logs": "^1.7.7"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
